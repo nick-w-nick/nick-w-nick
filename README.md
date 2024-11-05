@@ -7,7 +7,7 @@
 <h2>🔥 Recent Pull Requests 🔥</h2>
 
 <a href="https://github-profile-widgets.onrender.com/cards/pull-requests/nick-w-nick/0/link">
-    <img src="https://github-profile-widgets.onrender.com/cards/pull-requests/nick-w-nick/0" />
+    <img src="https://github-profile-widgets.onrender.com/cards/pull-requests/mudler/0" />
 </a>
 
 <a href="https://github-profile-widgets.onrender.com/cards/pull-requests/nick-w-nick/1/link">
