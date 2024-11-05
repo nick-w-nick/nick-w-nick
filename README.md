@@ -6,23 +6,4 @@
 
 <h2>🔥 Recent Pull Requests 🔥</h2>
 
-<a href="https://github-profile-widgets.onrender.com/cards/pull-requests/nick-w-nick/0/link">
-    <img src="https://github-profile-widgets.onrender.com/cards/pull-requests/nick-w-nick/0" />
-</a>
-
-<a href="https://github-profile-widgets.onrender.com/cards/pull-requests/nick-w-nick/1/link">
-    <img src="https://github-profile-widgets.onrender.com/cards/pull-requests/nick-w-nick/1" />
-</a>
-
-<a href="https://github-profile-widgets.onrender.com/cards/pull-requests/nick-w-nick/2/link">
-    <img src="https://github-profile-widgets.onrender.com/cards/pull-requests/nick-w-nick/2" />
-</a>
-
-<a href="https://github-profile-widgets.onrender.com/cards/pull-requests/nick-w-nick/3/link">
-    <img src="https://github-profile-widgets.onrender.com/cards/pull-requests/nick-w-nick/3" />
-</a>
-
-<a href="https://github-profile-widgets.onrender.com/cards/pull-requests/nick-w-nick/4/link">
-    <img src="https://github-profile-widgets.onrender.com/cards/pull-requests/nick-w-nick/4" />
-</a>
 </div>
