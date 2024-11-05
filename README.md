@@ -7,3 +7,46 @@
 </div>
 
 ****
+
+<svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        .bg { fill: #0d1117; }
+        .border { fill: none; stroke: #30363d; }
+        .text-main { fill: #c9d1d9; font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; }
+        .text-main:hover { fill: #58a6ff; }
+        .text-secondary { fill: #8b949e; font-family: Arial, sans-serif; font-size: 14px; }
+        .footer-text { fill: #8b949e; font-family: Arial, sans-serif; font-size: 14px; }
+        .text-secondary:hover { fill: #58a6ff; }
+        .merged-icon { fill: #ab7df8; }
+        .comment-icon { fill: #8b949e; }
+    </style>
+
+    <!-- Background -->
+    <rect x="0" y="0" width="400" height="90" class="bg" rx="6" />
+
+    <!-- Repository info -->
+    <a href="github.com">
+    <text x="16" y="26" class="text-secondary">tediousjs/tedious #1672</text>
+    </a>
+
+    <!-- PR Title -->
+    <a href="github.com">
+    <text x="16" y="50" class="text-main">docs: remove broken badge links</text>
+    </a>
+
+    <!-- Footer -->
+    <!-- Merged Icon and Text -->
+    <g transform="translate(16, 65)">
+        <path class="merged-icon" d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z" />
+        <text x="24" y="5" class="footer-text" dy="0.5em">Merged</text>
+    </g>
+
+    <!-- Comment Icon and Count -->
+    <g transform="translate(140, 65)">
+        <path class="comment-icon" d="M8 2C4.686 2 2 4.42 2 7c0 1.28.49 2.5 1.29 3.5l-.99 3.1c-.11.32.1.67.45.69a.504.504 0 0 0 .46-.32L5.55 12A6.18 6.18 0 0 0 8 12.5c3.314 0 6-2.42 6-5s-2.686-5-6-5z" />
+        <text x="24" y="5" class="footer-text" dy="0.5em">1 comment</text>
+    </g>
+
+    <!-- Date -->
+    <text x="320" y="76" class="footer-text">11/1/2024</text>
+</svg>
