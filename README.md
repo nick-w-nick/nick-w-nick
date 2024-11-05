@@ -7,22 +7,22 @@
 <h2>🔥 Recent Pull Requests 🔥</h2>
 
 <a href="https://github-profile-widgets.onrender.com/cards/pull-requests/nick-w-nick/0/link">
-    <img src="https://github-profile-widgets.onrender.com/cards/pull-requests/nick-w-nick/0" />
+    <img src="https://github-profile-widgets.onrender.com/cards/pull-requests/nick-w-nick/0?cache=false" />
 </a>
 
 <a href="https://github-profile-widgets.onrender.com/cards/pull-requests/nick-w-nick/1/link">
-    <img src="https://github-profile-widgets.onrender.com/cards/pull-requests/nick-w-nick/1" />
+    <img src="https://github-profile-widgets.onrender.com/cards/pull-requests/nick-w-nick/1?cache=false" />
 </a>
 
 <a href="https://github-profile-widgets.onrender.com/cards/pull-requests/nick-w-nick/2/link">
-    <img src="https://github-profile-widgets.onrender.com/cards/pull-requests/nick-w-nick/2" />
+    <img src="https://github-profile-widgets.onrender.com/cards/pull-requests/nick-w-nick/2?cache=false" />
 </a>
 
 <a href="https://github-profile-widgets.onrender.com/cards/pull-requests/nick-w-nick/3/link">
-    <img src="https://github-profile-widgets.onrender.com/cards/pull-requests/nick-w-nick/3" />
+    <img src="https://github-profile-widgets.onrender.com/cards/pull-requests/nick-w-nick/3?cache=false" />
 </a>
 
 <a href="https://github-profile-widgets.onrender.com/cards/pull-requests/nick-w-nick/4/link">
-    <img src="https://github-profile-widgets.onrender.com/cards/pull-requests/nick-w-nick/4" />
+    <img src="https://github-profile-widgets.onrender.com/cards/pull-requests/nick-w-nick/4?cache=false" />
 </a>
 </div>
