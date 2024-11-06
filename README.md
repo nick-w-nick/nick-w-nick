@@ -23,6 +23,6 @@
 </a>
 
 <a href="https://github-profile-widgets.onrender.com/cards/pull-requests/link?username=nick-w-nick&prIndex=4">
-    <img src="https://github-profile-widgets.onrender.com/cards/pull-request?username=nick-w-nick&prIndex=4" />
+    <img src="https://github-profile-widgets.onrender.com/cards/pull-requests?username=nick-w-nick&prIndex=4" />
 </a>
 </div>
