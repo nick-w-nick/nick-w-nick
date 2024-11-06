@@ -14,7 +14,7 @@
     <img src="https://github-profile-widgets.onrender.com/cards/pull-requests?username=nick-w-nick&prIndex=1" />
 </a>
 
-<a href="https://github-profile-widgets.onrender.com/cards/pull-requests?username=nick-w-nick&prIndex=2">
+<a href="https://github-profile-widgets.onrender.com/cards/pull-requests/link?username=nick-w-nick&prIndex=2">
     <img src="https://github-profile-widgets.onrender.com/cards/pull-requests?username=nick-w-nick&prIndex=2" />
 </a>
 
