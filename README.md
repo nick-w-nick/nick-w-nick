@@ -2,26 +2,16 @@
   <h3>Welcome! 👋</h3>
 
 <h2>🔥 Recent Pull Requests 🔥</h2>
+<img src="https://hall-of-contributions.vercel.app/api/widgets/pull-request-card?username=nick-w-nick&pullRequestIndex=0" />
 
-<a href="https://github-profile-widgets.onrender.com/cards/pull-requests/link?username=nick-w-nick&prIndex=0&ts=1731695169742">
-    <img src="https://github-profile-widgets.onrender.com/cards/pull-requests?username=nick-w-nick&prIndex=0&ts=1731695169742" />
-</a>
+<img src="https://hall-of-contributions.vercel.app/api/widgets/pull-request-card?username=nick-w-nick&pullRequestIndex=1" />
 
-<a href="https://github-profile-widgets.onrender.com/cards/pull-requests/link?username=nick-w-nick&prIndex=1&ts=1731695169742">
-    <img src="https://github-profile-widgets.onrender.com/cards/pull-requests?username=nick-w-nick&prIndex=1&ts=1731695169742" />
-</a>
+<img src="https://hall-of-contributions.vercel.app/api/widgets/pull-request-card?username=nick-w-nick&pullRequestIndex=2" />
 
-<a href="https://github-profile-widgets.onrender.com/cards/pull-requests/link?username=nick-w-nick&prIndex=2&ts=1731695169742">
-    <img src="https://github-profile-widgets.onrender.com/cards/pull-requests?username=nick-w-nick&prIndex=2&ts=1731695169742" />
-</a>
+<img src="https://hall-of-contributions.vercel.app/api/widgets/pull-request-card?username=nick-w-nick&pullRequestIndex=3" />
 
-<a href="https://github-profile-widgets.onrender.com/cards/pull-requests/link?username=nick-w-nick&prIndex=3&ts=1731695169742">
-    <img src="https://github-profile-widgets.onrender.com/cards/pull-requests?username=nick-w-nick&prIndex=3&ts=1731695169742" />
-</a>
+<img src="https://hall-of-contributions.vercel.app/api/widgets/pull-request-card?username=nick-w-nick&pullRequestIndex=4" />
 
-<a href="https://github-profile-widgets.onrender.com/cards/pull-requests/link?username=nick-w-nick&prIndex=4&ts=1731695169742">
-    <img src="https://github-profile-widgets.onrender.com/cards/pull-requests?username=nick-w-nick&prIndex=4&ts=1731695169742" />
-</a>
 
 <h2>🔥 Repositories I've Contributed To 🔥</h2>
 <a href="">
