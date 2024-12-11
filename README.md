@@ -2,15 +2,15 @@
   <h3>Welcome! 👋</h3>
 
 <h2>🔥 Recent Pull Requests 🔥</h2>
-<img src="https://hall-of-contributions.vercel.app/api/widgets/pull-request-card?username=nick-w-nick&pullRequestIndex=0" />
+<img src="https://hall-of-contributions.vercel.app/api/widgets/pull-request-card?username=nick-w-nick&pullRequestIndex=0&query=NOT typo in:title" />
 
-<img src="https://hall-of-contributions.vercel.app/api/widgets/pull-request-card?username=nick-w-nick&pullRequestIndex=1" />
+<img src="https://hall-of-contributions.vercel.app/api/widgets/pull-request-card?username=nick-w-nick&pullRequestIndex=1&query=NOT typo in:title" />
 
-<img src="https://hall-of-contributions.vercel.app/api/widgets/pull-request-card?username=nick-w-nick&pullRequestIndex=2" />
+<img src="https://hall-of-contributions.vercel.app/api/widgets/pull-request-card?username=nick-w-nick&pullRequestIndex=2&query=NOT typo in:title" />
 
-<img src="https://hall-of-contributions.vercel.app/api/widgets/pull-request-card?username=nick-w-nick&pullRequestIndex=3" />
+<img src="https://hall-of-contributions.vercel.app/api/widgets/pull-request-card?username=nick-w-nick&pullRequestIndex=3&query=NOT typo in:title" />
 
-<img src="https://hall-of-contributions.vercel.app/api/widgets/pull-request-card?username=nick-w-nick&pullRequestIndex=4" />
+<img src="https://hall-of-contributions.vercel.app/api/widgets/pull-request-card?username=nick-w-nick&pullRequestIndex=4&query=NOT typo in:title" />
 
 
 <h2>🔥 Repositories I've Contributed To 🔥</h2>
